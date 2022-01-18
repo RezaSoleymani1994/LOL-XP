@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7cae25a441af76d4cbcf30fe00135904, type: 3}
   m_Name: XP
   m_EditorClassIdentifier: 
-  <Creep>k__BackingField: 100
+  <Creep>k__BackingField: 85
   creepLastHitPercent: 26
   <Champion>k__BackingField: 1000
   championLastHitPercent: 15
@@ -34,3 +34,7 @@ MonoBehaviour:
     maxXP: 400
   - level: 5
     maxXP: 500
+  - level: 6
+    maxXP: 600
+  - level: 7
+    maxXP: 700

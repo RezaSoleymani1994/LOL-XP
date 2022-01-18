@@ -30,18 +30,3 @@ public class XPData : ScriptableObject
 
 
 }
-
-//#if UNITY_EDITOR
-//[UnityEditor.CustomEditor(typeof(XPData))]
-//public class XPDataEditor : UnityEditor.Editor
-//{
-//    private void OnEnable()
-//    {
-        
-//    }
-//    public override void OnInspectorGUI()
-//    {
-//        base.OnInspectorGUI();
-//    }
-//}
-//#endif
